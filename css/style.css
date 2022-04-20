@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    padding-top: 100px;
+}
+form{
+    background-color: rgb(48, 204, 204);
+    border-radius: 15px;
+    margin-left: 700px;
+    margin-right: 700px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+#divTestoC{
+    display: none;
+}
+#divTestoD{
+    display: none;
+}
+
+.warning{
+    margin-left: 700px;
+    margin-right: 700px;
+    border-radius: 15px;
+}
